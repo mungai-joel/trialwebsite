@@ -1,0 +1,19 @@
+body{
+  background-image:url('elephant.jpeg');
+  background-size: contain;
+}
+h1 {
+  color:#102DB1;
+  text-align: center;
+  }
+h2 {
+  color: #7B2CCC;
+  text-align: center;
+  font-style: oblique;
+}
+p{
+  font-family: sans-serif;
+}
+ul{
+  line-height: 40px;
+}
